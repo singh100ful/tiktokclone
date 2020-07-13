@@ -1,0 +1,43 @@
+//ONLINE
+export const ADD_ONLINE = 'ADD_ONLINE';
+export const ONLINE_FAILED = 'ONLINE_FAILED';
+
+//LOGIN
+export const ADD_LOGIN = 'ADD_LOGIN';
+export const LOGIN_LOADING = 'LOGIN_LOADING';
+export const LOGIN_FAILED = 'LOGIN_FAILED';
+export const REMOVE_LOGIN = 'REMOVE_LOGIN';
+
+//SIGNUP
+export const ADD_SIGNUP = 'ADD_SIGNUP';
+export const SIGNUP_LOADING = 'SIGNUP_LOADING';
+export const SIGNUP_FAILED = 'SIGNUP_FAILED';
+export const REMOVE_SIGNUP = 'REMOVE_SIGNUP';
+
+//VIDEO
+export const ADD_VIDEO = 'ADD_VIDEO';
+export const FETCH_VIDEO = 'FETCH_VIDEO';
+export const VIDEO_LOADING = 'VIDEO_LOADING';
+export const VIDEO_FAILED = 'VIDEO_FAILED';
+export const REMOVE_VIDEO = 'REMOVE_VIDEO';
+
+//PROFILE
+export const ADD_PROFILE = 'ADD_PROFILE';
+export const FETCH_PROFILE = 'FETCH_PROFILE';
+export const PROFILE_LOADING = 'PROFILE_LOADING';
+export const PROFILE_FAILED = 'PROFILE_FAILED';
+export const REMOVE_PROFILE = 'REMOVE_PROFILE';
+
+//LIKE
+export const ADD_LIKE = 'ADD_LIKE';
+export const FETCH_LIKE = 'FETCH_LIKE';
+export const LIKE_LOADING = 'LIKE_LOADING';
+export const LIKE_FAILED = 'LIKE_FAILED';
+export const REMOVE_LIKE = 'REMOVE_LIKE';
+
+//COMMENT
+export const ADD_COMMENT = 'ADD_COMMENT';
+export const FETCH_COMMENT = 'FETCH_COMMENT';
+export const COMMENT_LOADING = 'COMMENT_LOADING';
+export const COMMENT_FAILED = 'COMMENT_FAILED';
+export const REMOVE_COMMENT = 'REMOVE_COMMENT';
